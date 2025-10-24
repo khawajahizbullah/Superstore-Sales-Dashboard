@@ -33,8 +33,8 @@ To build a fully interactive Power BI Dashboard showing:
 •	Dashboard design best practices
 <br><br>👨‍💻 Created by<br>
 Khawaja Hizbullah
-📊 Data Analyst | Business Intelligence Enthusiast | Power BI Developer
-📧 khawajahizbullah@gmail.com
-🔗 Connect on LinkedIn
+📊 Data Analyst | Business Intelligence Enthusiast | Power BI Developer<br>
+📧 khawajahizbullah@gmail.com<br>
+🔗 Connect on LinkedIn: https://www.linkedin.com/in/hizbullah-khawaja
 
 
